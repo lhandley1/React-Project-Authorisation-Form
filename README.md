@@ -1,0 +1,1 @@
+My first React project assisted by Codecademy as part of the Learn React certification. The task was to add password authorization to the contact page in order to hide the contact information from unauthorized access.
